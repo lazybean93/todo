@@ -1,0 +1,153 @@
+Anschaffungen<tab>1590876000<tab>Stehlampe wie von Community(2020.05.31 - Stehlampe.png)<tab>
+Anschaffungen<tab>1605654000<tab>Schreibtisch 1,70cm x 1,90cm<tab>
+Anschaffungen<tab>1608246000<tab>Laptopakku<tab>
+Anschaffungen<tab>1608332400<tab>Lichtergierlande für Terrasse<tab>
+Anschaffungen<tab>1608332400<tab>Switch Spiel Overcooked<tab>
+Anschaffungen<tab>1608332400<tab>Tischdecke für neuen Esstisch<tab>
+Anschaffungen<tab>1609110000<tab>Ablagemöglichkeit rechte Bettseite<tab>
+Anschaffungen<tab>1609455600<tab>Untersetzer<tab>
+Anschaffungen<tab>1610838000<tab>ABUS Faltschloss Bordo Granit XPlus 6500<tab>
+Anschaffungen<tab>1610838000<tab>Schieblehre Preciva Edelstahl Messlehre<tab>
+Anschaffungen<tab>1610924400<tab>Starthilfekabel<tab>
+Arzttermine<tab>1609714800<tab>Neurologie Termin machen<tab>
+Arzttermine<tab>1609714800<tab>Urologen Termin machen<tab>
+Arzttermine<tab>1609714800<tab>Zahnarzttermin Dr. Worthmann machen<tab>
+Arzttermine<tab>1611183600<tab>Hautarzt Dr. Belarus Sheriff 15:50<tab>
+Arzttermine<tab>1612738800<tab>HOT Photophorese 08:15 Raum 064 Tel 497-77025<tab>
+Arzttermine<tab>1612825200<tab>HOT Photophorese 08:15 Raum 064 Tel 497-77025<tab>
+Arzttermine<tab>1613084400<tab>HOT Immunglobuline 8:45<tab>
+Arzttermine<tab>1614553200<tab>HOT Photophorese 08:15 Raum 064 Tel 497-77025<tab>
+Arzttermine<tab>1614639600<tab>HOT Photophorese 08:15 Raum 064 Tel 497-77025<tab>
+Arzttermine<tab>1615503600<tab>HOT Immunglobuline 8:45<tab>
+Arzttermine<tab>1616626800<tab>Augenarzt Dr. Martin Heuck 10:00<tab>
+Arzttermine<tab>1616713200<tab>HOT Photophorese 08:15 Raum 064 Tel 497-77025<tab>
+Arzttermine<tab>1616968800<tab>HOT Photophorese 08:15 Raum 064 Tel 497-77025<tab>
+Arzttermine<tab>1617919200<tab>HOT Immunglobuline 8:45<tab>
+Arzttermine<tab>1620338400<tab>HOT Immunglobuline 8:45<tab>
+Finanzen<tab>1612220400<tab>Mintos Check<tab>
+Finanzen<tab>1612393200<tab>Kontoauszüge speichern ING Diba<tab>
+Finanzen<tab>1612393200<tab>Kontoauszüge speichern Norisbank<tab>
+Finanzen<tab>1612393200<tab>PortfolioPerformance ING Diba Tagesgeld<tab>
+Geburtstage<tab>1612047600<tab>Isabell Hoffmann<tab>
+Geburtstage<tab>1612220400<tab>Stefan Obenlüneschloß<tab>
+Geburtstage<tab>1612306800<tab>Yasar Kücük<tab>
+Geburtstage<tab>1612825200<tab>Tim Sinner<tab>
+Geburtstage<tab>1612911600<tab>Lisa Ax<tab>
+Geburtstage<tab>1613084400<tab>Kathrin Strzalek<tab>
+Geburtstage<tab>1613257200<tab>Heinz Bremermann<tab>
+Geburtstage<tab>1613775600<tab>Mandy Wagner<tab>
+Geburtstage<tab>1614639600<tab>Ingrid Rohsmanith-Kücük<tab>
+Geburtstage<tab>1615244400<tab>Maximilian Schönfelder<tab>
+Geburtstage<tab>1615503600<tab>Mateusz Strzalek<tab>
+Geburtstage<tab>1615676400<tab>Martin Keßler<tab>
+Geburtstage<tab>1616968800<tab>Mika Kallweit<tab>
+Geburtstage<tab>1617919200<tab>Verlobungstag am 09.05<tab>
+Geburtstage<tab>1619042400<tab>Randi Martin<tab>
+Geburtstage<tab>1619301600<tab>Silke Conrads<tab>
+Geburtstage<tab>1620511200<tab>Verlobungstag<tab>
+Geburtstage<tab>1621116000<tab>Lukas Köping<tab>
+Geburtstage<tab>1621116000<tab>Muttertag am 26.05<tab>
+Geburtstage<tab>1621288800<tab>Carola Bremermann am 18.06<tab>
+Geburtstage<tab>1621548000<tab>Caroline Bender<tab>
+Geburtstage<tab>1621980000<tab>Muttertag<tab>
+Geburtstage<tab>1622325600<tab>Kornelia Tiebe am 30.06<tab>
+Geburtstage<tab>1622584800<tab>Sabrina Obenlüneschloß<tab>
+Geburtstage<tab>1623535200<tab>Vatertag am 23.06<tab>
+Geburtstage<tab>1623967200<tab>Carola Bremermann<tab>
+Geburtstage<tab>1624399200<tab>Vatertag<tab>
+Geburtstage<tab>1624572000<tab>Sebastian Klimczuk<tab>
+Geburtstage<tab>1624917600<tab>Kay Röhl<tab>
+Geburtstage<tab>1625004000<tab>Kornelia Tiebe<tab>
+Geburtstage<tab>1626645600<tab>Ahmad Delforouzi<tab>
+Geburtstage<tab>1626732000<tab>Leonard Marquitan<tab>
+Geburtstage<tab>1626904800<tab>Julia Strzalek<tab>
+Geburtstage<tab>1627768800<tab>Otto Bitterer<tab>
+Geburtstage<tab>1628028000<tab>Brigitte Bremermann<tab>
+Geburtstage<tab>1628546400<tab>Lea Marie Kosse (1)<tab>
+Geburtstage<tab>1628978400<tab>Noëmi Galas<tab>
+Geburtstage<tab>1629064800<tab>Katharina Osinska am 16.09<tab>
+Geburtstage<tab>1629151200<tab>Sara Bremermann<tab>
+Geburtstage<tab>1629237600<tab>Sebastian Kosse<tab>
+Geburtstage<tab>1629324000<tab>Michael Sander<tab>
+Geburtstage<tab>1629842400<tab>Saskia Knipp<tab>
+Geburtstage<tab>1630015200<tab>Simon Scheckel<tab>
+Geburtstage<tab>1630533600<tab>Hassan Khan<tab>
+Geburtstage<tab>1630706400<tab>Frank Schönfelder<tab>
+Geburtstage<tab>1631311200<tab>Joachim Tiebe am 11.10<tab>
+Geburtstage<tab>1631743200<tab>Katharina Osinska<tab>
+Geburtstage<tab>1631829600<tab>Jahrestag am 17.10<tab>
+Geburtstage<tab>1632002400<tab>Max Gerlich<tab>
+Geburtstage<tab>1632520800<tab>Samuel Daub<tab>
+Geburtstage<tab>1633903200<tab>Joachim Tiebe<tab>
+Geburtstage<tab>1634076000<tab>Philipp Spitzer<tab>
+Geburtstage<tab>1634421600<tab>Jahrestag<tab>
+Geburtstage<tab>1635199200<tab>Kristin Klaas<tab>
+Geburtstage<tab>1635372000<tab>Florian Schmidt<tab>
+Geburtstage<tab>1635721200<tab>Alexandra Kiowski<tab>
+Geburtstage<tab>1635807600<tab>Alexandra Benner<tab>
+Geburtstage<tab>1635807600<tab>Shari Schuller<tab>
+Geburtstage<tab>1635894000<tab>Carmen Schönfelder<tab>
+Geburtstage<tab>1636671600<tab>Nils Sinner<tab>
+Geburtstage<tab>1637449200<tab>Jonas Roth<tab>
+Geburtstage<tab>1638054000<tab>Fabian Andermar<tab>
+Geburtstage<tab>1638226800<tab>Felix Benner<tab>
+Geburtstage<tab>1638486000<tab>Emilia Strzalek<tab>
+Geburtstage<tab>1639868400<tab>Oliver Stammzelltransplantation<tab>
+Geburtstage<tab>1640127600<tab>Hannah Goedecke<tab>
+Geburtstage<tab>1641337200<tab>Christian Reusch<tab>
+Geburtstage<tab>1641682800<tab>Charlotte Jacobs<tab>
+Geburtstage<tab>1641682800<tab>John Franklin Rickard<tab>
+Geburtstage<tab>1641855600<tab>Kimiaki Shirahama<tab>
+Gerätepflege<tab>1611615600<tab>Amazon Kindle laden<tab>
+Gerätepflege<tab>1611615600<tab>Anker Soundcore 2 laden<tab>
+Gerätepflege<tab>1611615600<tab>JBL Tuner laden<tab>
+Gerätepflege<tab>1611615600<tab>LG G3 laden<tab>
+Gerätepflege<tab>1611615600<tab>Sony Ericsson Xperia Sola laden<tab>
+Gerätepflege<tab>1616022000<tab>Bplaced einloggen<tab>
+Gerätepflege<tab>1616626800<tab>Xiaomi Redmi 2A laden<tab>
+Gerätepflege<tab>1616886000<tab>Nexus 7 Laden<tab>
+Gerätepflege<tab>1626472800<tab>HomTom HT17 Laden<tab>
+Gerätepflege<tab>1627164000<tab>Xiaomi Redmi S2 laden<tab>
+HEUTE WICHTIG<tab>1610060400<tab>11.12 Osh Schulung<tab>
+HEUTE WICHTIG<tab>1611183600<tab>!Krankenhaustüte<tab>
+HEUTE WICHTIG<tab>1611183600<tab>!Medikamente<tab>
+HEUTE WICHTIG<tab>1611183600<tab>!Powerbank<tab>
+HEUTE WICHTIG<tab>1611183600<tab>!Schlüssel<tab>
+HEUTE WICHTIG<tab>1612738800<tab>!Geldbeutel<tab>
+HEUTE WICHTIG<tab>1612738800<tab>!Kopfhörer<tab>
+HEUTE WICHTIG<tab>1612738800<tab>!Sonnenbrille<tab>
+HEUTE WICHTIG<tab>1612738800<tab>AU Schein<tab>
+HEUTE WICHTIG<tab>1613084400<tab>!Getränk<tab>
+HEUTE WICHTIG<tab>1613084400<tab>!Laptop samt Ladekabel<tab>
+Handy<tab>1612220400<tab>Rechnung AldiTalk speichern<tab>
+Handy<tab>1621548000<tab>AldiTalk aufladen<tab>
+Hilchenbach<tab>1611874800<tab>BimKäs<tab>
+Hilchenbach<tab>1611874800<tab>Kinderpflaster für Lea mitnehmen (Schlafzimmer Rasierer)<tab>
+Hilchenbach<tab>1611874800<tab>Kochbuch<tab>
+Hilchenbach<tab>1611874800<tab>Netzteil 7.5VDC/1A/5,5 x 2,5 mm für Netzwerkswitch Suchen<tab>
+Hilchenbach<tab>1611874800<tab>Patientenverfügung<tab>
+Hilchenbach<tab>1611874800<tab>Raclette Holzstäbchen<tab>
+Kleinanzeigen<tab>1611702000<tab>Kleinanzeigen aktualisieren<tab>
+Medikamente<tab>1609801200<tab>Cotrimoxazol 1-0-1<tab>
+Medikamente<tab>1610406000<tab>Prednisolon 3-0-0<tab>
+Medikamente<tab>1611270000<tab>Medikamente stellen<tab>
+Privat<tab>1610838000<tab>Chromecast server auf Laptop<tab>
+Privat<tab>1610838000<tab>Tablet ohne Android einrichten<tab>
+Privat<tab>1610924400<tab>Externe Festplatte: Clonezilla Clones auf VMs laden<tab>
+Privat<tab>1610924400<tab>Feuermelder<tab>
+Privat<tab>1611010800<tab>Netbook auf Werkszustand: 1. Backup machen<tab>
+Privat<tab>1611010800<tab>Netbook auf Werkszustand: 1.1. Katharina Handy Sicherung<tab>
+Privat<tab>1611010800<tab>Netbook auf Werkszustand: 1.2. CloneZilla von Debian ohne Handysicherung<tab>
+Privat<tab>1611010800<tab>Netbook auf Werkszustand: 2. Backup von 2017.10.25 aufspielen<tab>
+Privat<tab>1611010800<tab>Netbook auf Werkszustand: 3. Werkszustand irgendwie daraus ziehen<tab>
+Privat<tab>1611010800<tab>Netbook auf Werkszustand: 4. Clonezilla von Werkszustand<tab>
+Privat<tab>1611010800<tab>Netbook auf Werkszustand: 5. Ersetzt Clonezilla von 2017.10.28<tab>
+Privat<tab>1611356400<tab>Externe Festplatte: Workout check<tab>
+Privat<tab>1611442800<tab>Ordnung mit Lankabel<tab>
+Privat<tab>1611442800<tab>Retro PC vernünftig Verschrauben<tab>
+Privat<tab>1611442800<tab>Todo entfernte Einträge speichern<tab>
+Privat<tab>1612134000<tab>Heizung Wasserdruck prüfen<tab>
+Termine<tab>1611529200<tab>Timm und Golz Mo. 25.01.2021 ab 07:45<tab>
+Termine<tab>1619128800<tab>Lisa & Nils Standesamt<tab>
+Termine<tab>1626904800<tab>	Falk - Ist das glutenfrei? Do. 22.07.2021 19:00<tab>
+Termine<tab>1653084000<tab>Lisa & Nils Feier<tab>
